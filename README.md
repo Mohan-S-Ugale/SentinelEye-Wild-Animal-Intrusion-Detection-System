@@ -63,7 +63,7 @@ When an animal is detected, the system captures the event, identifies the animal
 ## 🏗️ System Architecture
 
 <p align="center">
-<img src="Images/System_Architecture.png" width="850">
+<img src="Images/System_Architecture.jpeg" width="850">
 </p>
 
 ---
