@@ -30,7 +30,7 @@ GPIO.setup(BUZZER_PIN, GPIO.OUT)
 # Set the GPIO pin to LOW
 GPIO.output(BUZZER_PIN, GPIO.LOW)
 
-location = 'mhasrul'
+location = 'Nashik'
 
 log_file = 'logs.jsonl'
 
@@ -50,7 +50,7 @@ def sendMessage(label):
     ser.write(str.encode('AT+CMGF=1\r'))
     print("Text mode enabled...")
     time.sleep(3)
-    ser.write(str.encode('AT+CMGS="7620436797"\r'))
+    ser.write(str.encode('AT+CMGS="0123456789"\r')) #your mobile number
     msg=f"Be Alert, {label} Detected near {location} at {cdatetime}."
     print("sending message....")
     time.sleep(3)
