@@ -179,7 +179,7 @@ SentinelEye
 │   └── Working_of_SentinelEye.jpeg
 │
 ├── Documentation/
-│   ├── Published Research Paper
+│   ├── Reserch_Paper_SentinelEye_JETIR2605398.pdf
 │   └── Presentation.pdf
 │
 └── Sample_Code/
