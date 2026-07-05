@@ -253,7 +253,7 @@ If you would like to discuss the project implementation or architecture, feel fr
 
 ## 👨‍💻 Author
 
-**Monu Ugale**
+**Mohan Ugale**
 
 Artificial Intelligence & Data Science Engineer
 
