@@ -190,19 +190,25 @@ SentinelEye
 
 ## 📦 Installation
 
-Clone the repository
+### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SentinelEye.git
+git clone https://github.com/Mohan-S-Ugale/SentinelEye-Wild-Animal-Intrusion-Detection-System.git
 ```
 
-Install dependencies
+### Navigate to the project directory
+
+```bash
+cd SentinelEye-Wild-Animal-Intrusion-Detection-System
+```
+
+### Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the demo
+### Run the sample demo
 
 ```bash
 python Sample_Code/animal_detection_demo.py
