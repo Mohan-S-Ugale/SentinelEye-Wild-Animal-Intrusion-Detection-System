@@ -154,8 +154,7 @@ Display on Flask Dashboard
 - Tiger
 - Wild Boar
 - Hyena
-- Elephant *(Optional)*
-- Bear *(Optional)*
+- Lion
 
 ---
 
