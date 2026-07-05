@@ -1,0 +1,10 @@
+torch
+torchvision
+json
+cv2
+numpy
+datetime
+RPi.GPIO
+serial
+time,sys     
+os
