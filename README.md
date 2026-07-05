@@ -183,8 +183,8 @@ SentinelEye
 │   └── Presentation.pdf
 │
 └── Sample_Code/
-    ├── animal_detection_demo.py
-    └── README.md
+      └── animal_detection_demo.py
+   
 ```
 
 ---
