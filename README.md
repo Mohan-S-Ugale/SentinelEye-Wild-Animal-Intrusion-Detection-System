@@ -174,13 +174,13 @@ SentinelEye
 │   ├── Dashboard.png
 │   ├── Detection_Output.png
 │   ├── Flowchart.png
-│   └── Block_Diagram.png
+│   ├── admin_log.png
+│   ├── user_dashboard
+│   └── Working_of_SentinelEye.jpeg
 │
 ├── Documentation/
+│   ├── Published Research Paper
 │   └── Presentation.pdf
-│
-├── Demo/
-│   └── SentinelEye_Demo.mp4
 │
 └── Sample_Code/
     ├── animal_detection_demo.py
