@@ -126,8 +126,13 @@ Display on Flask Dashboard
 ### Web Dashboard
 
 <p align="center">
-<img src="Images/Dashboard.png" width="900">
+<img src="Images/user_dashboard.png" width="900">
 </p>
+
+<p align="center">
+<img src="Images/admin_logs.png" width="900">
+</p>
+
 
 ---
 
